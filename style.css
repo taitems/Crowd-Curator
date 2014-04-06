@@ -72,15 +72,19 @@ h2.blurb {
   box-sizing: border-box;
   color: #999;
 }
-.item-meta div {
+.item-meta div,
+.item-meta a {
   margin-top: 4px;
   padding: 6px 0;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
   display: none;
+  text-decoration: none;
+  color: #999;
 }
-.item-meta div i {
+.item-meta div i,
+.item-meta a i {
   width: 16px;
   height: 16px;
   display: inline-block;
