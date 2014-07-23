@@ -9,3 +9,4 @@ Styling and template for the Crowd Curator website
 - https://www.crowdsupply.com/browse
 - https://www.quirky.com/portfolio
 - http://www.pozible.com/list/new/0/all/0
+- https://www.crowdtivate.com/searches/searchall
